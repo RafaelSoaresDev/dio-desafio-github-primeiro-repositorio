@@ -10,22 +10,24 @@ Informação
 
 - Informação
 
-- - Dados
+- Dados
 
-  - - Tratados e processados
+  - Tratados e processados
 
-    - Numérico
+  - Numérico
 
-    - - Inteiros
-      - Reais
+    - Inteiros
+  
+    - Reais
+  
+  - Caracteres (Strings)
+  
+  - Lógicos (Booleano)
+  
+    - Verdadeiro - 1
 
-    - Caracteres (Strings)
-
-    - Lógicos (Booleano)
-
-    - - Verdadeiro - 1
-      - Falso - 0
-
+    - Falso - 0
+  
   - Instruções
 
  
@@ -73,16 +75,11 @@ Operadores Lógicos
  
 
 - Enquanto (While, Do)
-
-- - Teste lógico no início
-
+- Teste lógico no início
 - Repita (Do, While)
-
-- - Teste lógico ao final
-
+  - Teste lógico ao final
 - Para (For)
-
-- - Teste lógico no início e o      número de repetições é bem definido, ao contrário dos anteriores.
+  - Teste lógico no início e o      número de repetições é bem definido, ao contrário dos anteriores.
 
  
 
@@ -108,7 +105,7 @@ Definição Formal :book:
 
 Definindo um Vetor
 
-- Vetor conjunto [1...8]     <inteiro>
+- Vetor conjunto [1...8]     *inteiro*
 - Vetor [15]
 - Vetor []
 
@@ -179,7 +176,8 @@ Existem dois tipos de saída em um algoritmo
 
 - Saída programada
 
-- - Condicional
+  - Condicional
+
   - Incondicional
 
 - Saída por interrupção
